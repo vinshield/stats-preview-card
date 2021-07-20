@@ -48,6 +48,5 @@ I also want to better understand how to use background images and color gradient
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@vinshield](https://www.frontendmentor.io/profile/vinshield)
 - Twitter - [@jeslela](https://www.twitter.com/jeslela)
